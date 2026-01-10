@@ -1,1 +1,1 @@
-# programmingfundamentals-labs
+# PF-labs
